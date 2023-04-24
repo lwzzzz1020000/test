@@ -1,0 +1,1 @@
+document.write("我叫梁菀芝 夢想是暴富")
